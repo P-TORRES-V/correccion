@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BaseDeDatos</string>
+    <string name="edtCodigo">Codigo del contacto</string>
+    <string name="edtNombre">Nombre del contacto</string>
+    <string name="edtApellido">Apellido del contacto</string>
+    <string name="edtCelular">Celular del contacto</string>
+    <string name="edtDireccion">Direccion del contacto</string>
+    <string name="btnRegistrar">Registrar el contacto</string>
+    <string name="btnBuscar">Buscar el contacto</string>
+    <string name="btnModificar">Modificar el contacto</string>
+    <string name="btnEliminar">Eliminar el contacto</string>
+</resources>
